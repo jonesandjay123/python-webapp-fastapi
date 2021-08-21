@@ -11,7 +11,7 @@ To run the project, please do the follow steps:
 
 2. run `python3 -m venv venv` and then `. venv/bin/activate` to start the virtual environment
 
-3. `python3 -m pip install -r requirement.txt` to install all the requirement.
+3. `python3 -m pip install -r requirements.txt` to install all the requirement.
 
 4. finally run the the command below to start the app:
 `uvicorn main:app --reload`
